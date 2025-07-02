@@ -30,8 +30,8 @@ export const signUp = async (req, res) => {
     res.cookie("token", token, {
       httpOnly: true,
       maxAge: 7 * 24 * 60 * 60 * 1000,
-      sameSite: "lax",
-      secure: false, //Remember to change to true and sameSite: "none" when in production/deploying
+      sameSite: "None",
+      secure: true, //Remember to change to true and sameSite: "none" when in production/deploying
 
       expires: new Date(Date.now() + 1000 * 60 * 60 * 24 * 7), // 7 days
     });
@@ -66,8 +66,8 @@ export const Login = async (req, res) => {
     res.cookie("token", token, {
       httpOnly: true,
       maxAge: 7 * 24 * 60 * 60 * 1000,
-      sameSite: "lax",
-      secure: false, //Remember to change to true and sameSite: "none" when in production/deploying
+      sameSite: "None",
+      secure: true, //Remember to change to true and sameSite: "none" when in production/deploying
     });
     return res.status(200).json(user);
   } catch (error) {
