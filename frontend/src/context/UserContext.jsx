@@ -4,7 +4,7 @@ import axios from "axios";
 export const userDataContext = createContext();
 
 export const UserContext = ({ children }) => {
-  const serverUrl = "https://aurix-backend.onrender.com";
+  const serverUrl = "https://aurix-135i.onrender.com";
   const [userData, setUserData] = useState(null);
 
   const [frontendImage, setFrontendImage] = useState(null);
