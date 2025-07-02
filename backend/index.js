@@ -11,7 +11,7 @@ import geminiResponse from "./gemini.js";
 const app = express();
 app.use(
   cors({
-    origin: "https://aurix-your-virtual-assistant.onrender.com",
+    origin: "https://aurix-fronted.onrender.com",
     credentials: true,
   })
 );
