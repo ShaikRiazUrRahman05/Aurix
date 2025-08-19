@@ -1,5 +1,16 @@
-💬 Aurix – AI-Powered Virtual Assistant
-Aurix is a full-stack AI-powered virtual assistant that interacts with users using voice and text, just like JARVIS! Built using the MERN stack and enhanced with Gemini AI, this assistant can understand, respond, and be completely customized to suit your needs.
+# 💬 Aurix – AI-Powered Virtual Assistant
+
+**Aurix** is a **full-stack AI virtual assistant** that interacts with users using **voice and text**, just like **JARVIS**!  
+
+🚀 **Key Features:**
+- Built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js)  
+- Powered by **Gemini AI** for intelligent responses  
+- Fully **customizable** to suit your personal or business needs  
+- Handles **natural language** queries and voice commands  
+
+💡 **Aurix** is designed to make AI interaction seamless, smart, and fun!  
+
+![Aurix](https://img.shields.io/badge/Aurix-AI%20Assistant-blue)
 
 🧠 Voice + AI | Authentication | Custom Assistant Avatar | Real-Time Responses | Fully Deployed
 🌐 Live Demo
