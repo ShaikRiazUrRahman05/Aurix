@@ -15,8 +15,8 @@
 🧠 Voice + AI | Authentication | Custom Assistant Avatar | Real-Time Responses | Fully Deployed
 🌐 Live Demo
 
-🔗 Aurix Live App
-📦 GitHub Repository
+🔗 [Aurix Live App](https://aurix-fronted.onrender.com/signup)  
+📦 [GitHub Repository](https://github.com/ShaikRiazUrRahman05/Aurix/edit/main/README.md)
 
 Demo Credentials: Email: PAV@gmail.com Password: 123456
 
