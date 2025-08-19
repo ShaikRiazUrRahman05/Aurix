@@ -20,25 +20,34 @@
 
 Demo Credentials: Email: PAV@gmail.com Password: 123456
 
-🚀 Features
+🚀 **Features
 
-🗣️ Voice Interaction: Users can talk to the assistant via the Web Speech API.
-🧠 Gemini AI Replies: Integrated smart reply engine using Google Gemini Pro API.
-🔐 JWT Authentication: Secure signup/login system with encrypted passwords.
-🖼️ Custom Avatar: Upload and personalize assistant image using Cloudinary + Multer.
-🎨 Personalization: Change assistant name, branding, and voice.
-📱 Responsive UI: Works on desktop, tablet, and mobile.
-☁️ Free Deployment: Easily deployed using Render and Vercel.
-🧰 Tech Stack
+🗣️ **Voice Interaction**: Users can talk to the assistant via the Web Speech API.  
 
-Layer	Technologies Used
-Frontend	React, Tailwind CSS
-Backend	Node.js, Express.js
-AI Integration	Gemini AI, Web Speech API
-Authentication	JWT, bcryptjs
-File Upload	Multer, Cloudinary
-Database	MongoDB
-Deployment	Render (Backend), Render (Frontend)
+🧠 **Gemini AI Replies**: Integrated smart reply engine using Google Gemini Pro API.  
+
+🔐 **JWT Authentication**: Secure signup/login system with encrypted passwords.  
+
+🖼️ **Custom Avatar**: Upload and personalize assistant image using Cloudinary + Multer.  
+
+🎨 **Personalization**: Change assistant name, branding, and voice.  
+
+📱 **Responsive UI**: Works on desktop, tablet, and mobile.  
+
+☁️ **Free Deployment**: Easily deployed using Render and Vercel.
+
+
+## 🧰 Tech Stack
+
+| Layer            | Technologies Used                          |
+|------------------|--------------------------------------------|
+| **Frontend**     | React, Tailwind CSS                        |
+| **Backend**      | Node.js, Express.js                        |
+| **AI Integration** | Gemini AI, Web Speech API                 |
+| **Authentication** | JWT, bcryptjs                            |
+| **File Upload**  | Multer, Cloudinary                         |
+| **Database**     | MongoDB                                    |
+| **Deployment**   | Render (Backend), Render (Frontend)        |
 📦 Installation
 
 Clone the Repository
