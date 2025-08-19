@@ -4,7 +4,7 @@
 
 🚀 **Key Features:**
 - Built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js)  
-- Powered by **Gemini AI** for intelligent responses  
+- Powered by **Gemini AI** for intelligent responses.
 - Fully **customizable** to suit your personal or business needs  
 - Handles **natural language** queries and voice commands  
 
