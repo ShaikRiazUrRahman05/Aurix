@@ -10,7 +10,7 @@
 
 💡 **Aurix** is designed to make AI interaction seamless, smart, and fun!  
 
-![Aurix](https://img.shields.io/badge/Aurix-AI%20Assistant-blue)
+![Aurix](https://github.com/ShaikRiazUrRahman05/Aurix/blob/main/README.md)
 
 🧠 Voice + AI | Authentication | Custom Assistant Avatar | Real-Time Responses | Fully Deployed
 🌐 Live Demo
