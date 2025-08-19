@@ -48,36 +48,43 @@ Demo Credentials: Email: PAV@gmail.com Password: 123456
 | **File Upload**  | Multer, Cloudinary                         |
 | **Database**     | MongoDB                                    |
 | **Deployment**   | Render (Backend), Render (Frontend)        |
-📦 Installation
+## 📦 Installation & Setup
 
-Clone the Repository
-git clone https://github.com/abrarullahhaqqani/Aurix.git
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/ShaikRiazUrRahman05/Aurix.git
 cd Aurix
-Install Dependencies
-Frontend setup
+
+2️⃣ Install Dependencies
+Frontend Setup
 cd frontend
 npm install
 
-Backend setup
+Backend Setup
 cd ../backend
 npm install
-Setup Environment Variables
-Create backend/.env and add:
+
+3️⃣ Setup Environment Variables
+Backend (backend/.env)
 MONGODB_URI=your_mongo_connection_string
 JWT_SECRET=your_jwt_secret
 CLOUDINARY_CLOUD_NAME=your_cloudinary_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
-Create frontend/.env and add:
+
+Frontend (frontend/.env)
 VITE_API_BASE_URL=http://localhost:5000
-Run the Application
-# Start backend server
+
+4️⃣ Run the Application
+Start Backend Server
 cd backend
 npm run dev
 
-# Open a new terminal
+Open a New Terminal & Start Frontend
 cd frontend
 npm run dev
+
+
 
 🔮 Future Scope
 
