@@ -31,7 +31,7 @@ function Home() {
         withCredentials: true,
       });
       setUserData(null);
-      navigate("/sigin");
+      navigate("/signin");
     } catch (error) {
       console.log(error);
     }
